@@ -1,0 +1,6 @@
+{
+  "name": "Type I & Type II Error: Audio Reader & Visualizer",
+  "description": "Interactive audio reader and statistical visualizer for Chapter 8: Type I & II errors, significance level, statistical power, and Figure 8.1 sampling distributions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
